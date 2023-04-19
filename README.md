@@ -1,5 +1,3 @@
-# Deepfake-video-detection-using-DL-
-
 # Deepfake-video-detection-using-deep-learning
 1.Introduction 
 
@@ -26,6 +24,9 @@ This directory consists of the user interface code . Where a user can upload the
 Model Creation:
 This directory consists of the step by step process of creating and training a deepfake detection model .
 
+Documentations:
+This Consists of the medium article and the poster for Deepfake video detection using deep learning. And also the Architecture diagram for the same.
+
 4.Architecture Diagram
 
 
@@ -40,4 +41,13 @@ We evaluate the performance of the proposed approach on the DFDC dataset, which 
 6.Conclusion
 
 
-In this project, we propose a deep learning-based approach for detecting deepfake videos. The proposed approach uses a pre-trained CNN for feature extraction and LSTM for classification. The experimental results show that the proposed approach achieves high accuracy in detecting deepfake videos.
+In this project, we propose a deep learning-based approach for detecting deepfake videos. The proposed approach uses a pre-trained CNN for feature extraction and LSTM for classification. The experimental results show that the proposed approach achieves high accuracy in detecting deepfake videos.
+
+
+
+7.Contributors
+
+Siddhartha Talasila
+
+
+Lavaneeth Reddy
